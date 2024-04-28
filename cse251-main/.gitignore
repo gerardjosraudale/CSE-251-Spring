@@ -1,0 +1,11 @@
+**/code*.py
+**/attendance*.png
+**/attendance*.JPG
+**/__pycache__
+**/elephant
+**/green
+**/processed
+**/*.task
+**/*.class
+**/prove
+**/*-solution.py
