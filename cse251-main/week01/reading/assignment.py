@@ -198,7 +198,7 @@ def main():
     assert childObj.get_value_using_index(1) == 6
     assert childObj.get_value_using_index(2) == 7
     assert isinstance(childObj, MyParentClass) == True
-
+\
     '''
         - Know how to open a file
         - Know how to read lines from a file
